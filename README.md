@@ -13,5 +13,5 @@ Give a rating from 1 to 10
 Specify how many episodes that you have watched out of the total number of episodes
 read a basic synopsis/ plot
 read other information such as airing dates,genre, duration, type(movie/song/show),creator
-view which shows,movies,songs that you have added to your list in an organized manner in accordance to - -currently watching, completed,on-hold or plan to watch -the score that you have given or the type (show/movie/song)
+view which shows,movies,songs that you have added to your list in an organized manner in accordance to - -currently watching, completed,on-hold or plan to watch -the score that you have given or the type (show/movie/song).
 Application developed using HTML,CSS,Javascript,Bootstrap,NodeJS,PHP, MySql. It's currently in progress as my 7th semester project
